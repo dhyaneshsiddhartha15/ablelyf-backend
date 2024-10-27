@@ -1,0 +1,23 @@
+# .env files
+.env
+
+# Node modules
+node_modules/
+
+# Generated files
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional IDE files
+.idea/
+.vscode/
